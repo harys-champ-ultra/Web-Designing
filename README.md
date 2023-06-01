@@ -3,11 +3,11 @@
 
 * Structure
   * HTML
-  * Taiwind CSS
-  * Bootstrap
 * Style
   * CSS
   * SCSS
+  * Taiwind CSS
+  * Bootstrap
 * Interaction
   * JavaScript
 
